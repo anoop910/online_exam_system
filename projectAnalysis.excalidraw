@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "ZinJtQAcxkq5b1YjvrMaL",
+      "type": "text",
+      "x": 283.20001220703125,
+      "y": 163.60000610351562,
+      "width": 778.4000549316406,
+      "height": 1125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 867745617,
+      "version": 755,
+      "versionNonce": 814559153,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1770267382275,
+      "link": null,
+      "locked": false,
+      "text": "=============\nAdmin Module\n=============\n\n-----------------\nfunction \n---------------\nAdmin can Resister\nAdmin can Login\nAdmin can create Exam\nAdmin can add update delete qestion\nAdmin can set exam durtion\nAdmin can view students result\n-----------\nPojo classes\n-----------\ncreate Exam\nAdd question\n-----------------\nservice classes\n------------------\n\nexam\nquestion\n\n----------------\nexam  function\n------------------\n\ncreate exam\nadd, update and delete question in exam\nset exam duration\n\n\n\n\n\n\nstudent Module\n\n\n\n\n\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "=============\nAdmin Module\n=============\n\n-----------------\nfunction \n---------------\nAdmin can Resister\nAdmin can Login\nAdmin can create Exam\nAdmin can add update delete qestion\nAdmin can set exam durtion\nAdmin can view students result\n-----------\nPojo classes\n-----------\ncreate Exam\nAdd question\n-----------------\nservice classes\n------------------\n\nexam\nquestion\n\n----------------\nexam  function\n------------------\n\ncreate exam\nadd, update and delete question in exam\nset exam duration\n\n\n\n\n\n\nstudent Module\n\n\n\n\n\n",
+      "autoResize": false,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
